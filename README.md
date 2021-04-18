@@ -1,6 +1,6 @@
 ### Yosh  World ! 👋
 
-## I'm a Product Manager, Project Manager and a Gamer and 👨🏽‍💻
+## I'm a Product Manager, Project Manager and a Gamer 👨🏽‍💻
 - 🔭 I’m currently working on my Startup Project 👷🏾‍♂️
 - 🌱 I’m currently learning Kubernetes and Azure
 - 🚀 I’m looking to contribute to Open Source projects
