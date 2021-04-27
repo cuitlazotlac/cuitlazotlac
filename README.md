@@ -75,7 +75,7 @@
 
 <h3> 🎧  Spotify Playing : </h3>
 
-<img src="https://novatorem-cuitlazotlac.vercel.app/api/spotify" alt="cuitlazotlac_spotify" width="350"]/>
+<img src="https://novatorem-cuitlazotlac.vercel.app/api/spotify" alt="cuitlazotlac_spotify" width="350"></img>
 
 <br/>
 
