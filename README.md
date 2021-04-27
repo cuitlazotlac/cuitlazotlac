@@ -69,10 +69,6 @@
 ![VSCode Badge](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Atom Badge](https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white)
 ![UberEats Badge](https://img.shields.io/badge/Uber_Eats-5FB709?style=for-the-badge&logo=uber-eats&logoColor=white)
-
-
-<br />
-
 <h3> 🎧  Spotify Playing : </h3>
 
 <img src="https://novatorem-cuitlazotlac.vercel.app/api/spotify" alt="cuitlazotlac_spotify" width="350"></img>
@@ -91,9 +87,9 @@ No Activity tracked this Week
 
 <details>
   <summary>🦉 GitHub Stats</summary>
-  <img align="left" alt="GitHub Stats" src="https://github-readme-stats-cuitlazotlac.vercel.app/api?username=cuitlazotlac&show_icons=true&hide_border=true" />
+  <img alt="GitHub Stats" src="https://github-readme-stats-cuitlazotlac.vercel.app/api?username=cuitlazotlac&show_icons=true&theme=tokyonight&hide_border=true" />
 </details>
 <details>
   <summary>👾 Most Used Languages</summary>
-<img align="left" alt="Top Languages" src="https://github-readme-stats-cuitlazotlac.vercel.app/api/top-langs/?username=cuitlazotlac" />
+<img alt="Top Languages" src="https://github-readme-stats-cuitlazotlac.vercel.app/api/top-langs/?username=cuitlazotlac&show_icons=true&theme=tokyonight&hide_border=true" />
 </details>
