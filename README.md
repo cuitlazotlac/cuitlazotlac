@@ -23,6 +23,11 @@
 <!-- [![Spotify](https://novatorem-cuitlazotlac.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME) -->
 
 ---
+
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <details>
   <summary>:zap: GitHub Stats</summary>
   <img align="left" alt="GitHub Stats" src="https://github-readme-stats-cuitlazotlac.vercel.app/api?username=cuitlazotlac&show_icons=true&hide_border=true" />
