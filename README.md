@@ -83,7 +83,10 @@
 Coding Stats
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 20 April, 2021 - 27 April, 2021
+
+Markdown   52 mins         ███████████████████████░░   91.60 % 
+YAML       4 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 % 
 ```
 <!--END_SECTION:waka-->
 
