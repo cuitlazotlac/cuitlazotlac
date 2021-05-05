@@ -82,13 +82,13 @@
 Coding Stats
 <!--START_SECTION:waka-->
 ```text
-Week: 26 April, 2021 - 03 May, 2021
+Week: 27 April, 2021 - 04 May, 2021
 
-SCSS         3 hrs 43 mins   █████████▒░░░░░░░░░░░░░░░   37.56 % 
-TypeScript   3 hrs 11 mins   ████████░░░░░░░░░░░░░░░░░   32.13 % 
-Markdown     2 hrs 13 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.33 % 
-JavaScript   22 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
-YAML         9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
+TypeScript   4 hrs           █████████▒░░░░░░░░░░░░░░░   37.90 % 
+SCSS         3 hrs 46 mins   █████████░░░░░░░░░░░░░░░░   35.72 % 
+Markdown     1 hr 20 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.72 % 
+JavaScript   36 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.78 % 
+JSON         23 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 % 
 ```
 <!--END_SECTION:waka-->
 
