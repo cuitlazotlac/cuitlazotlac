@@ -1,5 +1,6 @@
 <h1 align="center"> Yosh World ! 🤙🏽
- <img align="right" alt="img" src="https://github.com/cuitlazotlac/cuitlazotlac/blob/main/mine.png" />
+ <br/>
+ <img align="right" width="410px "alt="img" src="https://github.com/cuitlazotlac/cuitlazotlac/blob/main/eastwood-come-back-later.png" />
 <h3 align="center">I'm a Product Manager, Project Manager and a Gamer</h3>
 
 
