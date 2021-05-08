@@ -4,7 +4,7 @@
 <h3 align="left">I'm a Product Manager, Project Manager and a Gamer</h3>
 
 
-📮 Drop me a line !
+<h4> 📮 Drop me a line ! </h4>
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.behance.net/cuitlazotlacti) 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:novalue-yet@gmail.com)
@@ -23,7 +23,7 @@
 
 <br />
 
-<h3> 🦥 Languages and Tools :<h3> 
+<h4> 🦥 Languages and Tools :<h4> 
 
 ![HTML Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -66,21 +66,19 @@
 
 
 ---
-<h3> 💁🏽‍♂️  My Workspace :</h3>
+<h4> 💁🏽‍♂️  My Workspace :</h4>
 
 ![Apple Badge](https://img.shields.io/badge/Apple-MacBook_Pro_2019-999999?style=for-the-badge&logo=apple&logoColor=white)
 ![VSCode Badge](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Atom Badge](https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white)
 ![UberEats Badge](https://img.shields.io/badge/Uber_Eats-5FB709?style=for-the-badge&logo=uber-eats&logoColor=white)
-<h3> 🎧  Spotify Playing : </h3>
 
+<h4> 🎧  Spotify Playing : </h4>
 <img src="https://novatorem-cuitlazotlac.vercel.app/api/spotify" alt="cuitlazotlac_spotify" width="350"></img>
-
-<br/>
 
 ---
 
-Coding Stats
+📉 Coding Stats :
 <!--START_SECTION:waka-->
 ```text
 Week: 30 April, 2021 - 07 May, 2021
@@ -95,10 +93,10 @@ HTML         12 mins         ▓░░░░░░░░░░░░░░░░
 
 
 <details>
-  <summary>🦉 GitHub Stats</summary>
+<summary> 🦉 GitHub Stats : </summary>
   <img alt="GitHub Stats" src="https://github-readme-stats-cuitlazotlac.vercel.app/api?username=cuitlazotlac&show_icons=true&theme=tokyonight&hide_border=true" />
 </details>
 <details>
-  <summary>👾 Most Used Languages</summary>
+<summary> 👾 Most Used Languages : </summary>
 <img alt="Top Languages" src="https://github-readme-stats-cuitlazotlac.vercel.app/api/top-langs/?username=cuitlazotlac&show_icons=true&theme=tokyonight&hide_border=true" />
 </details>
