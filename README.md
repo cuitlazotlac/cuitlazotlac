@@ -1,7 +1,7 @@
-<h1 align="center"> Yosh World ! 🤙🏽
+<h1 align="left"> Yosh World ! 🤙🏽
  <br/>
  <img align="right" width="410px "alt="img" src="https://github.com/cuitlazotlac/cuitlazotlac/blob/main/eastwood-come-back-later.png" />
-<h3 align="center">I'm a Product Manager, Project Manager and a Gamer</h3>
+<h3 align="left">I'm a Product Manager, Project Manager and a Gamer</h3>
 
 
 📮 Drop me a line !
