@@ -14,7 +14,7 @@
 [![Resume Badge](https://img.shields.io/badge/My%20Resume-000000?style=for-the-badge&logo=LibreOffice&logoColor=white)](https://www.behance.net/cuitlazotlacti)
 
 - 🔭 I’m currently working on **a Startup Project 👷🏾‍♂️**
-- 👨🏽‍💻 Most used line of code `git push --force origin let's_F-word_everything:main`
+- 👨🏽‍💻 Most used line of code `git push -f origin master:master`
 - 🌱 I’m currently learning **How the world works...**
 - 👯 I’m looking to collaborate on **on Open Source Projects 🛠**
 - 💬 Pronouns **He/Him/His**
