@@ -7,7 +7,7 @@
 <h4> 📮 Drop me a line ! </h4>
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.behance.net/cuitlazotlacti) 
-[![Email Badge](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:novalue-yet@gmail.com)
+[![Email Badge](https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:novalue-yet@gmail.com)
 [![CodePen Badge](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/cuitlazotlac)
 [![Behance Badge](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/cuitlazotlacti)
 [![Dribble Badge](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=Dribbble&logoColor=white)](https://dribbble.com/cuitlazotlac)
