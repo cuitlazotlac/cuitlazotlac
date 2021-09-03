@@ -73,7 +73,7 @@
 📉 Coding Stats :
 <!--START_SECTION:waka-->
 ```text
-Week: 26 August, 2021 - 01 September, 2021
+Week: 27 August, 2021 - 02 September, 2021
 
 Solidity   37 mins         ████████████████████████▓   99.07 % 
 ```
