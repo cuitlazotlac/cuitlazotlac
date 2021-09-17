@@ -1,7 +1,7 @@
 <h1 align="left"> Yosh World ! 🤙🏽
  <br/>
  <img align="right" width="410px "alt="img" src="https://github.com/cuitlazotlac/cuitlazotlac/blob/main/eastwood-come-back-later.png" />
-<h3 align="left">I'm a Product Manager, a Project Manager, a Blockchain enthusiast and a proud member of the <a href="https://techqueria.org/" target="_blank"> LatinX Tech Community <img width="35px "alt="img" src="https://github.com/cuitlazotlac/cuitlazotlac/blob/main/logo-techqueria.png" /></a></h3>
+<h3 align="left">I'm a Product Manager, a Technical Project Manager, a Blockchain enthusiast and a proud member of the <a href="https://techqueria.org/" target="_blank"> LatinX Tech Community <img width="35px "alt="img" src="https://github.com/cuitlazotlac/cuitlazotlac/blob/main/logo-techqueria.png" /></a></h3>
 
 
 <h4> 📮 Drop me a line ! </h4>
