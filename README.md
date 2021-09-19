@@ -14,7 +14,7 @@
 
 - 🔭 I’m currently working on **a Startup Project 👷🏾‍♂️**
 - 👨🏽‍💻 Most used line of code `git push -f origin main:main`
-- 🌱 I’m currently learning **How the world works...**
+- 🌱 I’m currently learning **Blockchain and Distributed Systems**
 - 👯 I’m looking to collaborate on **on Open Source Projects 🛠**
 - 💬 Pronouns **He/Him/His**
 - ⚡ Fun fact **I speak 4 languages ( English, French, Spanish, Arabic )**
