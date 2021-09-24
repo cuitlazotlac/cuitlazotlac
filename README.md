@@ -73,7 +73,7 @@
 📉 Coding Stats :
 <!--START_SECTION:waka-->
 ```text
-Week: 16 September, 2021 - 22 September, 2021
+Week: 17 September, 2021 - 23 September, 2021
 
 JavaScript   2 hrs 36 mins   ████████████████████████▒   97.83 % 
 JSON         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
