@@ -24,17 +24,17 @@
 
 <h4> 🦥 Languages and Tools :<h4> 
 
-![HTML Badge](https://img.shields.io/badge/HTML5-CD96FE?style=for-the-badge&logo=html5&logoColor=black)
-![CSS Badge](https://img.shields.io/badge/CSS3-9F87E6?style=for-the-badge&logo=css3&logoColor=black)
-![Javascript Badge](https://img.shields.io/badge/JavaScript-A3A4FD?style=for-the-badge&logo=javascript&logoColor=black)
-![Typescript Badge](https://img.shields.io/badge/TypeScript-87A2E6?style=for-the-badge&logo=typescript&logoColor=black)
-![React Badge](https://img.shields.io/badge/React-CD96FE?style=for-the-badge&logo=react&logoColor=61DAFB)
-![SCSS Badge](https://img.shields.io/badge/Sass-9F87E6?style=for-the-badge&logo=sass&logoColor=white)
-![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-CD96FE?style=for-the-badge&logo=bootstrap&logoColor=white)
-![MaterialUI Badge](https://img.shields.io/badge/Material--UI-9F87E6?style=for-the-badge&logo=material-ui&logoColor=white)
+![HTML Badge](https://img.shields.io/badge/HTML5-CD96FE?style=for-the-badge&logo=html5&logoColor=#EA6123)
+![CSS Badge](https://img.shields.io/badge/CSS3-9F87E6?style=for-the-badge&logo=css3&logoColor=#2662E9)
+![Javascript Badge](https://img.shields.io/badge/JavaScript-A3A4FD?style=for-the-badge&logo=javascript&logoColor=#EFD819)
+![Typescript Badge](https://img.shields.io/badge/TypeScript-87A2E6?style=for-the-badge&logo=typescript&logoColor=#2D79C7)
+![React Badge](https://img.shields.io/badge/React-CD96FE?style=for-the-badge&logo=react&logoColor=#61DAFB)
+![SCSS Badge](https://img.shields.io/badge/Sass-9F87E6?style=for-the-badge&logo=sass&logoColor=#CE679B)
+![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-CD96FE?style=for-the-badge&logo=bootstrap&logoColor=#7A12F7)
+![MaterialUI Badge](https://img.shields.io/badge/Material--UI-9F87E6?style=for-the-badge&logo=material-ui&logoColor=#00B0FE)
 ![NPM Badge](https://img.shields.io/badge/npm-A3A4FD?style=for-the-badge&logo=npm&logoColor=white)
-![Python Badge](https://img.shields.io/badge/Python-87A2E6?style=for-the-badge&logo=python&logoColor=white)
-![Selenium Badge](https://img.shields.io/badge/Selenium-CD96FE?style=for-the-badge&logo=Selenium&logoColor=white)
+![Python Badge](https://img.shields.io/badge/Python-87A2E6?style=for-the-badge&logo=python&logoColor=#326B9A)
+![Selenium Badge](https://img.shields.io/badge/Selenium-CD96FE?style=for-the-badge&logo=Selenium&logoColor=#00B400)
 
 ![MSSQL Badge](https://img.shields.io/badge/Microsoft%20SQL%20Sever-9F87E6?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![Postgres Badge](https://img.shields.io/badge/PostgreSQL-A3A4FD?style=for-the-badge&logo=postgresql&logoColor=white)
