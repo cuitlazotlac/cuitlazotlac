@@ -36,17 +36,17 @@
 ![Python Badge](https://img.shields.io/badge/Python-87A2E6?style=for-the-badge&logo=python&logoColor=#326B9A)
 ![Selenium Badge](https://img.shields.io/badge/Selenium-CD96FE?style=for-the-badge&logo=Selenium&logoColor=#00B400)
 
-![MSSQL Badge](https://img.shields.io/badge/Microsoft%20SQL%20Sever-9F87E6?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![Postgres Badge](https://img.shields.io/badge/PostgreSQL-A3A4FD?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB Badge](https://img.shields.io/badge/MongoDB-87A2E6?style=for-the-badge&logo=mongodb&logoColor=white)
+![MSSQL Badge](https://img.shields.io/badge/Microsoft%20SQL%20Sever-9F87E6?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=#DF3732)
+![Postgres Badge](https://img.shields.io/badge/PostgreSQL-A3A4FD?style=for-the-badge&logo=postgresql&logoColor=#326790)
+![MongoDB Badge](https://img.shields.io/badge/MongoDB-87A2E6?style=for-the-badge&logo=mongodb&logoColor=#13A950)
 
 
-![Docker Badge](https://img.shields.io/badge/Docker-CD96FE?style=for-the-badge&logo=docker&logoColor=white)
-![K8s Badge](https://img.shields.io/badge/kubernetes-9F87E6.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)
-![Azure Badge](https://img.shields.io/badge/microsoft%20azure-A3A4FD?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Firebase Badge](https://img.shields.io/badge/firebase-87A2E6?style=for-the-badge&logo=firebase&logoColor=black)
-![Jenkins Badge](https://img.shields.io/badge/Jenkins-CD96FE?style=for-the-badge&logo=Jenkins&logoColor=white)
-![Git Badge](https://img.shields.io/badge/Git-9F87E6?style=for-the-badge&logo=git&logoColor=white)
+![Docker Badge](https://img.shields.io/badge/Docker-CD96FE?style=for-the-badge&logo=docker&logoColor=#2596EC)
+![K8s Badge](https://img.shields.io/badge/kubernetes-9F87E6.svg?&style=for-the-badge&logo=kubernetes&logoColor=#316DE4)
+![Azure Badge](https://img.shields.io/badge/microsoft%20azure-A3A4FD?style=for-the-badge&logo=microsoft-azure&logoColor=#0089D6)
+![Firebase Badge](https://img.shields.io/badge/firebase-87A2E6?style=for-the-badge&logo=firebase&logoColor=#F58310)
+![Jenkins Badge](https://img.shields.io/badge/Jenkins-CD96FE?style=for-the-badge&logo=Jenkins&logoColor=#304F60)
+![Git Badge](https://img.shields.io/badge/Git-9F87E6?style=for-the-badge&logo=git&logoColor=#F0512F)
 
 ![Postman Badge](https://img.shields.io/badge/Postman-CD96FE?style=for-the-badge&logo=Postman&logoColor=white)
 ![PowerBi Badge](https://img.shields.io/badge/Power%20Bi-9F87E6?style=for-the-badge&logo=Power%20BI&logoColor=white)
