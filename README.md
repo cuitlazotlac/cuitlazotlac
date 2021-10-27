@@ -48,11 +48,11 @@
 ![Jenkins Badge](https://img.shields.io/badge/Jenkins-CD96FE?style=for-the-badge&logo=Jenkins&logoColor=#304F60)
 ![Git Badge](https://img.shields.io/badge/Git-9F87E6?style=for-the-badge&logo=git&logoColor=#F0512F)
 
-![Postman Badge](https://img.shields.io/badge/Postman-CD96FE?style=for-the-badge&logo=Postman&logoColor=white)
-![PowerBi Badge](https://img.shields.io/badge/Power%20Bi-9F87E6?style=for-the-badge&logo=Power%20BI&logoColor=white)
-![GoogleAnalytics Badge](https://img.shields.io/badge/Google%20Analytics-A3A4FD?style=for-the-badge&logo=google%20analytics&logoColor=white)
-![Matomo Badge](https://img.shields.io/badge/Matomo-87A2E6?style=for-the-badge&logo=Matomo&logoColor=white)
-![Figma Badge](https://img.shields.io/badge/Figma-CD96FE?style=for-the-badge&logo=figma&logoColor=white)
+![Postman Badge](https://img.shields.io/badge/Postman-CD96FE?style=for-the-badge&logo=Postman&logoColor=#F76936)
+![PowerBi Badge](https://img.shields.io/badge/Power%20Bi-9F87E6?style=for-the-badge&logo=Power%20BI&logoColor=#F3C911)
+![GoogleAnalytics Badge](https://img.shields.io/badge/Google%20Analytics-A3A4FD?style=for-the-badge&logo=google%20analytics&logoColor=#FAAB00)
+![Matomo Badge](https://img.shields.io/badge/Matomo-87A2E6?style=for-the-badge&logo=Matomo&logoColor=#2E51A1)
+![Figma Badge](https://img.shields.io/badge/Figma-CD96FE?style=for-the-badge&logo=figma&logoColor=#A15AFE)
 <!-- ![AdobeAi Badge](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) -->
 <!-- ![InVision Badge](https://img.shields.io/badge/InVision-FF3366?style=for-the-badge&logo=InVision&logoColor=white) -->
 
