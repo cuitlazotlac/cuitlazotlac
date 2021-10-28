@@ -10,7 +10,7 @@
 [![Email Badge](https://img.shields.io/badge/Mail-9F87E6?style=for-the-badge&logo=gmail&logoColor=black)](mailto:heyhayssem@gmail.com)
 [![CodePen Badge](https://img.shields.io/badge/Codepen-A3A4FD?style=for-the-badge&logo=codepen&logoColor=black)](https://codepen.io/cuitlazotlac)
 [![Dribble Badge](https://img.shields.io/badge/Dribbble-87A2E6?style=for-the-badge&logo=Dribbble&logoColor=black)](https://dribbble.com/cuitlazotlac)
-[![Resume Badge](https://img.shields.io/badge/My%20Resume-96CEFE?style=for-the-badge&logo=LibreOffice&logoColor=black)](https://drive.google.com/file/d/16-Kc6kp1IDjVfiuZERrbGChhSUVuuTIn/view?usp=sharing)
+[![Resume Badge](https://img.shields.io/badge/My%20Resume-96CEFE?style=for-the-badge&logo=LibreOffice&logoColor=black)](https://drive.google.com/file/d/1cK7ib2w5wfZuIafic9pOIHZaZIiYqqis/view?usp=sharing)
 
 - 🔭 I’m currently working on **a Startup Project 👷🏾‍♂️**
 - 👨🏽‍💻 Most used line of code `git push -f origin main:main`
