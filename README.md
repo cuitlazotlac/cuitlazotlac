@@ -61,9 +61,9 @@
 <h4> 💁🏽‍♂️  My Workspace :</h4>
 
 ![Apple Badge](https://img.shields.io/badge/Apple-MacBook_Pro_2019-CD96FE?style=for-the-badge&logo=apple&logoColor=white)
-![VSCode Badge](https://img.shields.io/badge/Visual_Studio_Code-9F87E6?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Atom Badge](https://img.shields.io/badge/Atom-A3A4FD?style=for-the-badge&logo=Atom&logoColor=white)
-![UberEats Badge](https://img.shields.io/badge/Uber_Eats-87A2E6?style=for-the-badge&logo=uber-eats&logoColor=white)
+![VSCode Badge](https://img.shields.io/badge/Visual_Studio_Code-9F87E6?style=for-the-badge&logo=visual%20studio%20code&logoColor=#44B0F4)
+![Atom Badge](https://img.shields.io/badge/Atom-A3A4FD?style=for-the-badge&logo=Atom&logoColor=#1AAB76)
+![UberEats Badge](https://img.shields.io/badge/Uber_Eats-87A2E6?style=for-the-badge&logo=uber-eats&logoColor=#00BF32)
 
 <h4> 🎧  Spotify Playing : </h4>
 <img src="https://novatorem-cuitlazotlac.vercel.app/api/spotify" alt="cuitlazotlac_spotify" width="350"></img>
