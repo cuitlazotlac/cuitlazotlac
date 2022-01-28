@@ -17,8 +17,6 @@
 - 🌱 I’m currently learning **Blockchain and Distributed Systems**
 - 👯 I’m looking to collaborate on **on Open Source Projects 🛠**
 - 💬 Pronouns **He/Him/His**
-- ⚡ Fun fact **I speak 4 languages ( English, French, Spanish, Arabic )**
-
 
 <br />
 
