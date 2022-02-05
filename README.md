@@ -71,10 +71,7 @@
 📉 Coding Stats :
 <!--START_SECTION:waka-->
 ```text
-Week: 28 January, 2022 - 03 February, 2022
-
-TypeScript   1 hr 7 mins     ██████████████▒░░░░░░░░░░   57.32 % 
-JSON         50 mins         ██████████▓░░░░░░░░░░░░░░   42.68 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
