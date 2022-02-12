@@ -1,6 +1,6 @@
 <h1 align="left"> Hey World ! 🤙🏽 
  <br/>
- <img align="right" width="410px "alt="img" src="https://github.com/cuitlazotlac/cuitlazotlac/blob/main/what-is-ethereum.png" />
+ <img align="right" width="410px "alt="img" src="https://github.com/cuitlazotlac/cuitlazotlac/blob/main/img_readme.png" />
 <h3 align="left">I'm a Product Manager working on blockchain infrastructure ⛓ and a proud member of the <a href="https://techqueria.org/" target="_blank"> LatinX Tech Community <img width="35px "alt="img" src="logo-techqueria.png" /></a></h3>
 
 
