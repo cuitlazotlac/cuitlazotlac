@@ -71,7 +71,9 @@
 📉 Coding Stats :
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 08 February, 2022 - 14 February, 2022
+
+JavaScript   16 mins         █████████████████████████   99.74 % 
 ```
 <!--END_SECTION:waka-->
 
