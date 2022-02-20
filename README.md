@@ -71,9 +71,7 @@
 📉 Coding Stats :
 <!--START_SECTION:waka-->
 ```text
-Week: 12 February, 2022 - 18 February, 2022
-
-Total: 16 mins
+Week: 13 February, 2022 - 19 February, 2022
 
 JavaScript   16 mins         █████████████████████████   99.74 % 
 ```
