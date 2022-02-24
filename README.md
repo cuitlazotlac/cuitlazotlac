@@ -4,13 +4,13 @@
 <h3 align="left">I'm a Product Manager working on blockchain infrastructure ⛓ and a proud member of the <a href="https://techqueria.org/" target="_blank"> LatinX Tech Community <img width="35px "alt="img" src="logo-techqueria.png" /></a></h3>
 
 
-<h4> 📮 Drop me a line ! </h4>
+<!-- <h4> 📮 Drop me a line ! </h4>
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-CD96FE?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.behance.net/cuitlazotlac) 
 [![Email Badge](https://img.shields.io/badge/Mail-9F87E6?style=for-the-badge&logo=gmail&logoColor=black)](mailto:heyhayssem@gmail.com)
 [![CodePen Badge](https://img.shields.io/badge/Codepen-A3A4FD?style=for-the-badge&logo=codepen&logoColor=black)](https://codepen.io/cuitlazotlac)
 [![Dribble Badge](https://img.shields.io/badge/Dribbble-87A2E6?style=for-the-badge&logo=Dribbble&logoColor=black)](https://dribbble.com/cuitlazotlac)
-[![Resume Badge](https://img.shields.io/badge/My%20Resume-96CEFE?style=for-the-badge&logo=LibreOffice&logoColor=black)](https://drive.google.com/file/d/1XqK292myheQ53gTAYmz20vpO4cv5Q7Fq/view?usp=sharing)
+[![Resume Badge](https://img.shields.io/badge/My%20Resume-96CEFE?style=for-the-badge&logo=LibreOffice&logoColor=black)](https://drive.google.com/file/d/1XqK292myheQ53gTAYmz20vpO4cv5Q7Fq/view?usp=sharing) -->
 
 - 🔭 I’m currently working on **a Startup Project 👷🏾‍♂️**
 - 👨🏽‍💻 Most used line of code `git push -f origin main:main`
