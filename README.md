@@ -1,9 +1,10 @@
 <h1 align="left"> Hey World ! 🤙🏽 
  <br/>
- <img align="right" width="410px "alt="img" src="https://github.com/cuitlazotlac/cuitlazotlac/blob/main/what-is-ethereum.png" />
-<h3 align="left">I'm a Product Manager working on blockchain infrastructure ⛓ and a proud member of the <a href="https://techqueria.org/" target="_blank"> LatinX Tech Community <img width="35px "alt="img" src="logo-techqueria.png" /></a></h3>
-
-
+<!-- <img align="right" width="410px "alt="img" src="https://github.com/cuitlazotlac/cuitlazotlac/blob/main/what-is-ethereum.png" /> -->
+<!-- <h5 align="left">I'm a Product Manager working on blockchain infrastructure ⛓ and a proud member of the <a href="https://techqueria.org/" target="_blank"> LatinX Tech Community <img width="35px "alt="img" src="logo-techqueria.png" /></a></h5>
+ -->
+ <h4 align="left">Just a Product Manager working on blockchain infrastructure ⛓ </h4>
+ 
 <!-- <h4> 📮 Drop me a line ! </h4>
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-CD96FE?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.behance.net/cuitlazotlac) 
@@ -17,9 +18,7 @@
 - 🌱 I’m currently learning **Blockchain and Distributed Systems**
 - 👯 I’m looking to collaborate on **on Open Source Projects 🛠**
 - 💬 Pronouns **He/Him/His**
-
-<br />
-
+ 
 <h4> 🦥 Languages and Tools :<h4> 
 
 ![HTML Badge](https://img.shields.io/badge/HTML5-CD96FE?style=for-the-badge&logo=html5&logoColor=#EA6123)
@@ -56,7 +55,7 @@
 
 
 ---
-<h4> 💁🏽‍♂️  My Workspace :</h4>
+<h4> 👨🏽‍💻  My Workspace :</h4>
 
 ![Apple Badge](https://img.shields.io/badge/Apple-MacBook_Pro_M1_2020-CD96FE?style=for-the-badge&logo=apple&logoColor=white)
 ![VSCode Badge](https://img.shields.io/badge/Visual_Studio_Code-9F87E6?style=for-the-badge&logo=visual%20studio%20code&logoColor=#44B0F4)
