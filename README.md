@@ -68,10 +68,10 @@ No activity tracked
 
 
 <details>
-<summary><h4>🐙 GitHub Stats : </h4></summary>
+<summary>🐙 GitHub Stats : </summary>
   <img alt="GitHub Stats" src="https://github-readme-stats-cuitlazotlac.vercel.app/api?username=cuitlazotlac&show_icons=true&theme=tokyonight&hide_border=true" />
 </details>
 <details>
-<summary><h4> 👾 Most Used Languages : </h4></summary>
+<summary>👾 Most Used Languages : </summary>
 <img alt="Top Languages" src="https://github-readme-stats-cuitlazotlac.vercel.app/api/top-langs/?username=cuitlazotlac&show_icons=true&theme=tokyonight&hide_border=true" />
 </details>
