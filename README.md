@@ -13,7 +13,7 @@
 [![Dribble Badge](https://img.shields.io/badge/Dribbble-87A2E6?style=for-the-badge&logo=Dribbble&logoColor=black)](https://dribbble.com/cuitlazotlac)
 [![Resume Badge](https://img.shields.io/badge/My%20Resume-96CEFE?style=for-the-badge&logo=LibreOffice&logoColor=black)](https://drive.google.com/file/d/1XqK292myheQ53gTAYmz20vpO4cv5Q7Fq/view?usp=sharing) -->
 
-- 👷🏽‍♂️  I’m currently working on **a Startup Project **
+- 👷🏽‍♂️  I’m currently working on a Startup Project
 - 👨🏽‍💻  Most used line of code `git push -f origin main:main`
 - 🌱  I’m currently learning **Blockchain and Distributed Systems**
 - 🔭  I’m looking to collaborate on **on Open Source Projects 🛠**
