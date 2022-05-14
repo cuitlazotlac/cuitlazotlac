@@ -29,8 +29,8 @@
 ![SCSS Badge](https://img.shields.io/badge/Sass-3C434D?style=for-the-badge&logo=sass&logoColor=#CE679B)
 ![NPM Badge](https://img.shields.io/badge/npm-3C434D?style=for-the-badge&logo=npm&logoColor=white)
 ![Python Badge](https://img.shields.io/badge/Python-3C434D?style=for-the-badge&logo=python&logoColor=#326B9A)
-![Selenium Badge](https://img.shields.io/badge/Selenium-3C434D?style=for-the-badge&logo=Selenium&logoColor=#00B400)
-![MSSQL Badge](https://img.shields.io/badge/Microsoft%20SQL%20Sever-3C434D?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=#DF3732)
+<!-- ![Selenium Badge](https://img.shields.io/badge/Selenium-3C434D?style=for-the-badge&logo=Selenium&logoColor=#00B400) -->
+<!-- ![MSSQL Badge](https://img.shields.io/badge/Microsoft%20SQL%20Sever-3C434D?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=#DF3732) -->
 ![Postgres Badge](https://img.shields.io/badge/PostgreSQL-3C434D?style=for-the-badge&logo=postgresql&logoColor=#326790)
 ![Docker Badge](https://img.shields.io/badge/Docker-3C434D?style=for-the-badge&logo=docker&logoColor=#2596EC)
 ![K8s Badge](https://img.shields.io/badge/kubernetes-3C434D.svg?&style=for-the-badge&logo=kubernetes&logoColor=#316DE4)
