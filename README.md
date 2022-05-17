@@ -3,7 +3,7 @@
 <!-- <img align="right" width="410px "alt="img" src="https://github.com/cuitlazotlac/cuitlazotlac/blob/main/what-is-ethereum.png" /> -->
 <!-- <h5 align="left">I'm a Product Manager working on blockchain infrastructure ⛓ and a proud member of the <a href="https://techqueria.org/" target="_blank"> LatinX Tech Community <img width="35px "alt="img" src="logo-techqueria.png" /></a></h5>
  -->
- <h4 align="left">Just a Product Manager working on Digital Assets Infrastructure ⛓ ⛏ </h4>
+ <h4 align="left">Just a Product Manager building products for crypto miners ⛓ ⛏ </h4>
  
 <!-- <h4> 📮 Drop me a line ! </h4>
 
