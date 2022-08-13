@@ -53,7 +53,7 @@
 <!-- !<h4> 🎧  Spotify Playing : </h4> -->
 <!-- !<img src="https://novatorem-cuitlazotlac.vercel.app/api/spotify" alt="cuitlazotlac_spotify" width="350"></img> -->
 
----
+<!-- ---  -->
 
 📉 Coding Stats :
 <!--START_SECTION:waka-->
