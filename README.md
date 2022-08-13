@@ -50,8 +50,8 @@
 ![Atom Badge](https://img.shields.io/badge/Atom-A3A4FD?style=for-the-badge&logo=Atom&logoColor=#1AAB76)
 ![UberEats Badge](https://img.shields.io/badge/Uber_Eats-87A2E6?style=for-the-badge&logo=uber-eats&logoColor=#00BF32) -->
 
-<h4> 🎧  Spotify Playing : </h4>
-<img src="https://novatorem-cuitlazotlac.vercel.app/api/spotify" alt="cuitlazotlac_spotify" width="350"></img>
+<!-- !<h4> 🎧  Spotify Playing : </h4> -->
+<!-- !<img src="https://novatorem-cuitlazotlac.vercel.app/api/spotify" alt="cuitlazotlac_spotify" width="350"></img> -->
 
 ---
 
