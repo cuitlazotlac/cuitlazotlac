@@ -59,14 +59,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 21 October 2022 - To: 28 October 2022
+From: 22 October 2022 - To: 29 October 2022
 
-JavaScript   5 hrs 34 mins   ██████████████▒░░░░░░░░░░   57.34 %
-YAML         1 hr 2 mins     ██▓░░░░░░░░░░░░░░░░░░░░░░   10.78 %
-TOML         50 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.70 %
-TypeScript   38 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.58 %
-Properties   22 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 %
-Markdown     19 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 %
+JavaScript   5 hrs 34 mins   ██████████████▓░░░░░░░░░░   58.64 %
+YAML         1 hr 7 mins     ███░░░░░░░░░░░░░░░░░░░░░░   11.86 %
+TOML         50 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.90 %
+Properties   22 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 %
+Markdown     20 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 %
+JSON         19 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 %
 ```
 
 <!--END_SECTION:waka-->
