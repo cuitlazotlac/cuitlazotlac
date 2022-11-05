@@ -71,7 +71,7 @@ Other        10 mins         █▓░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-
+<!-- 
 <details>
 <summary>🐙 GitHub Stats : </summary>
   <img alt="GitHub Stats" src="https://github-readme-stats-cuitlazotlac.vercel.app/api?username=cuitlazotlac&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -79,4 +79,16 @@ Other        10 mins         █▓░░░░░░░░░░░░░░░
 <details>
 <summary>👾 Most Used Languages : </summary>
 <img alt="Top Languages" src="https://github-readme-stats-cuitlazotlac.vercel.app/api/top-langs/?username=cuitlazotlac&show_icons=true&theme=tokyonight&hide_border=true" />
-</details>
+</details> -->
+
+
+<div style="display: flex; flex-direction: row;">
+
+<img width="46%" src="https://github-readme-stats.vercel.app/api?username=cuitlazotlac&theme=gotham&hide_border=false&include_all_commits=false&count_private=false" />
+
+<img width="46%" src="https://github-readme-streak-stats.herokuapp.com/?user=cuitlazotlac&theme=gotham&hide_border=false" />
+
+</div>
+<br/>
+ 
+[![@cuitlazotlac's Holopin board](https://holopin.me/cuitlazotlac)](https://holopin.io/@cuitlazotlac)
