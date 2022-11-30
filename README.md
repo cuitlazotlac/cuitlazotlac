@@ -23,11 +23,11 @@
  <!--  PRODUCT DEVELOPMENT RELATED  -->
 <!-- ![HTML Badge](https://img.shields.io/badge/HTML5-3C434D?style=for-the-badge&logo=html5&logoColor=#3C434D) -->
 <!-- ![CSS Badge](https://img.shields.io/badge/CSS3-3C434D?style=for-the-badge&logo=css3&logoColor=#2662E9) -->
+<!-- ![NPM Badge](https://img.shields.io/badge/npm-3C434D?style=for-the-badge&logo=npm&logoColor=white) -->
 ![React Badge](https://img.shields.io/badge/React-3C434D?style=for-the-badge&logo=react&logoColor=#61DAFB)
 ![Javascript Badge](https://img.shields.io/badge/JavaScript-3C434D?style=for-the-badge&logo=javascript&logoColor=#EFD819)
 ![Typescript Badge](https://img.shields.io/badge/TypeScript-3C434D?style=for-the-badge&logo=typescript&logoColor=#2D79C7)
 ![SCSS Badge](https://img.shields.io/badge/Sass-3C434D?style=for-the-badge&logo=sass&logoColor=#CE679B)
-![NPM Badge](https://img.shields.io/badge/npm-3C434D?style=for-the-badge&logo=npm&logoColor=white)
 ![Python Badge](https://img.shields.io/badge/Python-3C434D?style=for-the-badge&logo=python&logoColor=#326B9A)
 ![Postgres Badge](https://img.shields.io/badge/PostgreSQL-3C434D?style=for-the-badge&logo=postgresql&logoColor=#326790)
 ![Docker Badge](https://img.shields.io/badge/Docker-3C434D?style=for-the-badge&logo=docker&logoColor=#2596EC)
@@ -36,8 +36,8 @@
 ![Git Badge](https://img.shields.io/badge/Git-3C434D?style=for-the-badge&logo=git&logoColor=#F0512F)
 ![PowerBi Badge](https://img.shields.io/badge/Power%20Bi-3C434D?style=for-the-badge&logo=Power%20BI&logoColor=#F3C911)
 ![GoogleAnalytics Badge](https://img.shields.io/badge/Google%20Analytics-3C434D?style=for-the-badge&logo=google%20analytics&logoColor=#FAAB00)
-![Matomo Badge](https://img.shields.io/badge/Matomo-3C434D?style=for-the-badge&logo=Matomo&logoColor=#2E51A1)
 ![Figma Badge](https://img.shields.io/badge/Figma-3C434D?style=for-the-badge&logo=figma&logoColor=#A15AFE)
+<!--  ![Matomo Badge](https://img.shields.io/badge/Matomo-3C434D?style=for-the-badge&logo=Matomo&logoColor=#2E51A1) -->
 <!-- ![AdobeAi Badge](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) -->
 <!-- ![InVision Badge](https://img.shields.io/badge/InVision-FF3366?style=for-the-badge&logo=InVision&logoColor=white) -->
 
