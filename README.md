@@ -59,14 +59,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 23 November 2022 - To: 30 November 2022
+From: 24 November 2022 - To: 01 December 2022
 
-TypeScript                 2 hrs 29 mins   ████████████████▓░░░░░░░░   66.77 %
-JavaScript                 33 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.90 %
-Go                         15 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.04 %
-JSON                       7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 %
-Nginx configuration file   4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.22 %
-GraphQL                    4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.82 %
+TypeScript                 2 hrs 40 mins   █████████████░░░░░░░░░░░░   52.24 %
+JavaScript                 57 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.65 %
+Markdown                   52 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.23 %
+Go                         15 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.16 %
+JSON                       7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.38 %
+Nginx configuration file   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 %
 ```
 
 <!--END_SECTION:waka-->
