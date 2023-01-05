@@ -59,11 +59,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 27 December 2022 - To: 03 January 2023
+From: 28 December 2022 - To: 04 January 2023
 
-JavaScript   1 hr 28 mins    ███████████████░░░░░░░░░░   59.75 %
-TypeScript   57 mins         █████████▓░░░░░░░░░░░░░░░   38.86 %
-JSON         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 %
+JavaScript   1 hr 28 mins    ███████████████▒░░░░░░░░░   60.85 %
+TypeScript   55 mins         █████████▓░░░░░░░░░░░░░░░   38.11 %
+JSON         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
 MDX          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
 Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
