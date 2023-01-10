@@ -59,7 +59,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 01 January 2023 - To: 08 January 2023
+From: 02 January 2023 - To: 09 January 2023
 
 MDX          23 mins         █████████████████████▓░░░   87.29 %
 TypeScript   3 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.04 %
