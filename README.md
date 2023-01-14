@@ -59,11 +59,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 05 January 2023 - To: 12 January 2023
+From: 06 January 2023 - To: 13 January 2023
 
-MDX          31 mins         ████████████████▒░░░░░░░░   64.74 %
-TypeScript   17 mins         ████████▓░░░░░░░░░░░░░░░░   34.89 %
-JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
+MDX          2 hrs 15 mins   ███████████████████▓░░░░░   79.13 %
+TypeScript   32 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.90 %
+JSON         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.53 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
 ```
 
 <!--END_SECTION:waka-->
