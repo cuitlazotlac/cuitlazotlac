@@ -59,14 +59,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 15 January 2023 - To: 22 January 2023
+From: 16 January 2023 - To: 23 January 2023
 
-Nginx configuration file   37 mins         █████████████▒░░░░░░░░░░░   53.43 %
-CSS                        14 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.50 %
-Caddyfile                  10 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.36 %
-YAML                       4 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.01 %
-HTML                       1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.04 %
-Other                      0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 %
+Nginx configuration file   37 mins         █████████████████▓░░░░░░░   70.47 %
+Caddyfile                  10 mins         █████░░░░░░░░░░░░░░░░░░░░   20.25 %
+YAML                       4 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.93 %
+Other                      0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 %
 ```
 
 <!--END_SECTION:waka-->
