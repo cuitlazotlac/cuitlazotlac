@@ -59,12 +59,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 17 January 2023 - To: 24 January 2023
+From: 18 January 2023 - To: 25 January 2023
 
-Nginx configuration file   37 mins         █████████████████▓░░░░░░░   70.47 %
-Caddyfile                  10 mins         █████░░░░░░░░░░░░░░░░░░░░   20.25 %
-YAML                       4 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.93 %
-Other                      0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 %
+Caddyfile   10 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
