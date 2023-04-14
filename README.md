@@ -59,12 +59,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 05 April 2023 - To: 12 April 2023
+From: 06 April 2023 - To: 13 April 2023
 
-TypeScript   1 hr 12 mins    ████████████████▒░░░░░░░░   64.82 %
-MDX          22 mins         █████░░░░░░░░░░░░░░░░░░░░   20.42 %
+TypeScript   1 hr 12 mins    ████████████████▒░░░░░░░░   64.79 %
+MDX          23 mins         █████░░░░░░░░░░░░░░░░░░░░   20.45 %
 XML          14 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.97 %
-Other        1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 %
+Other        1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.38 %
 ```
 
 <!--END_SECTION:waka-->
