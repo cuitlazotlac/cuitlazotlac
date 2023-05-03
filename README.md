@@ -59,12 +59,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 24 April 2023 - To: 01 May 2023
+From: 25 April 2023 - To: 02 May 2023
 
-MDX          1 hr 8 mins     ████████████████████▓░░░░   82.28 %
-TypeScript   13 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.62 %
-JavaScript   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.08 %
-Text         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+MDX          1 hr 12 mins    ████████████████████░░░░░   80.51 %
+TypeScript   15 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.32 %
+JavaScript   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.62 %
+JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
 ```
 
 <!--END_SECTION:waka-->
