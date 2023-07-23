@@ -83,7 +83,7 @@ YAML         18 mins         █▓░░░░░░░░░░░░░░░
 
 <div style="display: flex; flex-direction: row;">
 
-<img width="46%" src="https://github-readme-stats.vercel.app/api?username=cuitlazotlac&theme=gotham&hide_border=false&include_all_commits=false&count_private=false" />
+<img width="41.8%" src="https://github-readme-stats.vercel.app/api?username=cuitlazotlac&theme=gotham&hide_border=false&include_all_commits=false&count_private=false" />
 
 <img width="46%" src="https://github-readme-streak-stats.herokuapp.com/?user=cuitlazotlac&theme=gotham&hide_border=false" />
 
