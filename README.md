@@ -59,7 +59,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 July 2023 - To: 05 August 2023
+From: 30 July 2023 - To: 06 August 2023
 
 MDX          45 mins         █████████▓░░░░░░░░░░░░░░░   39.14 %
 Markdown     25 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.94 %
