@@ -59,13 +59,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 July 2023 - To: 07 August 2023
+From: 01 August 2023 - To: 08 August 2023
 
-MDX          45 mins         █████████▓░░░░░░░░░░░░░░░   39.14 %
-Markdown     25 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.94 %
-JavaScript   20 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.65 %
-TypeScript   13 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.81 %
-JSON         5 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.73 %
+MDX          45 mins         ██████████▒░░░░░░░░░░░░░░   40.91 %
+Markdown     25 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.93 %
+JavaScript   15 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.06 %
+TypeScript   13 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.34 %
+JSON         5 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.82 %
 ```
 
 <!--END_SECTION:waka-->
