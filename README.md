@@ -59,13 +59,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 August 2023 - To: 07 September 2023
+From: 01 September 2023 - To: 08 September 2023
 
-JSON         9 mins          ██████████▓░░░░░░░░░░░░░░   42.48 %
-JavaScript   6 mins          ███████░░░░░░░░░░░░░░░░░░   28.13 %
-TypeScript   5 mins          ██████▒░░░░░░░░░░░░░░░░░░   24.87 %
-Ezhil        0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 %
-Other        0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
