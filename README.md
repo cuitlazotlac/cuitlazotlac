@@ -59,13 +59,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 September 2023 - To: 15 September 2023
+From: 09 September 2023 - To: 16 September 2023
 
-Python         9 mins          ███████████▒░░░░░░░░░░░░░   45.98 %
-MySQL          5 mins          ███████░░░░░░░░░░░░░░░░░░   28.09 %
-ActionScript   1 min           ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 %
-TypeScript     1 min           ██░░░░░░░░░░░░░░░░░░░░░░░   07.97 %
-Objective-C    1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.25 %
+GDScript   0 secs          ██████████████▒░░░░░░░░░░   57.13 %
+Rust       0 secs          ██████████▓░░░░░░░░░░░░░░   42.87 %
 ```
 
 <!--END_SECTION:waka-->
