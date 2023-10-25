@@ -28,7 +28,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 October 2023 - To: 23 October 2023
+From: 17 October 2023 - To: 24 October 2023
 
 Python           1 hr 58 mins    █████████▒░░░░░░░░░░░░░░░   37.65 %
 Assembly         39 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.65 %
