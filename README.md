@@ -28,13 +28,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 October 2023 - To: 26 October 2023
+From: 20 October 2023 - To: 27 October 2023
 
-Python           1 hr 46 mins    ███████████▒░░░░░░░░░░░░░   45.37 %
-Assembly         39 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.85 %
-TypeScript       29 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.51 %
-Ezhil            27 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.50 %
-JSON             24 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.58 %
+TypeScript       29 mins         ████████▒░░░░░░░░░░░░░░░░   33.62 %
+MDX              25 mins         ███████░░░░░░░░░░░░░░░░░░   28.65 %
+Python           16 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.43 %
+Ezhil            7 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 %
+JavaScript       4 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.00 %
 ```
 
 <!--END_SECTION:waka-->
