@@ -28,13 +28,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 October 2023 - To: 02 November 2023
+From: 27 October 2023 - To: 03 November 2023
 
-MDX          1 hr 3 mins     █████████████▓░░░░░░░░░░░   55.14 %
-JSON         29 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.18 %
-TypeScript   16 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.80 %
-JavaScript   3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.66 %
-YAML         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 %
+MDX          38 mins         ███████████░░░░░░░░░░░░░░   43.77 %
+JSON         27 mins         ████████░░░░░░░░░░░░░░░░░   31.75 %
+TypeScript   17 mins         █████░░░░░░░░░░░░░░░░░░░░   19.44 %
+JavaScript   3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 %
+YAML         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 %
 ```
 
 <!--END_SECTION:waka-->
