@@ -28,11 +28,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 November 2023 - To: 27 November 2023
+From: 21 November 2023 - To: 28 November 2023
 
-MDX          1 hr 29 mins    ███████████████░░░░░░░░░░   59.91 %
-TypeScript   38 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.71 %
-JSON         21 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.38 %
+MDX          1 hr 36 mins    ████████████████░░░░░░░░░   64.31 %
+TypeScript   32 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.47 %
+JSON         21 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.22 %
 YAML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
