@@ -28,12 +28,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 December 2023 - To: 18 December 2023
+From: 12 December 2023 - To: 19 December 2023
 
-Markdown   14 mins         ████████████████▒░░░░░░░░   65.75 %
-MDX        5 mins          ██████▒░░░░░░░░░░░░░░░░░░   25.96 %
-JSON       1 min           ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 %
-Other      0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 %
+JSON       1 min           █████████████████████░░░░   83.66 %
+Other      0 secs          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.54 %
+Markdown   0 secs          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.80 %
 ```
 
 <!--END_SECTION:waka-->
