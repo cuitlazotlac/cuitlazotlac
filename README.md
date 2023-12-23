@@ -28,11 +28,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 December 2023 - To: 21 December 2023
+From: 15 December 2023 - To: 22 December 2023
 
-JSON       1 min           █████████████████████░░░░   83.66 %
-Other      0 secs          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.54 %
-Markdown   0 secs          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.80 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
