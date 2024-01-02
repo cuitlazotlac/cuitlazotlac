@@ -28,10 +28,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 December 2023 - To: 31 December 2023
+From: 25 December 2023 - To: 01 January 2024
 
-MDX    7 mins          █████████████████████░░░░   83.72 %
-JSON   1 min           ████░░░░░░░░░░░░░░░░░░░░░   16.28 %
+MDX   7 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
