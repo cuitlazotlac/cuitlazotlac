@@ -28,9 +28,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 December 2023 - To: 03 January 2024
+From: 28 December 2023 - To: 04 January 2024
 
-MDX   7 mins          █████████████████████████   100.00 %
+Markdown   9 mins          ██████████████▒░░░░░░░░░░   56.88 %
+MDX        7 mins          ██████████▓░░░░░░░░░░░░░░   43.12 %
 ```
 
 <!--END_SECTION:waka-->
