@@ -28,9 +28,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 January 2024 - To: 17 January 2024
+From: 11 January 2024 - To: 18 January 2024
 
-No activity tracked
+MDX          1 min           ███████████░░░░░░░░░░░░░░   43.41 %
+TypeScript   0 secs          ███████▒░░░░░░░░░░░░░░░░░   29.50 %
+Markdown     0 secs          ██████▓░░░░░░░░░░░░░░░░░░   27.09 %
 ```
 
 <!--END_SECTION:waka-->
