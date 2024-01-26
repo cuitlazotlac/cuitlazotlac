@@ -28,11 +28,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 January 2024 - To: 24 January 2024
+From: 18 January 2024 - To: 25 January 2024
 
-MDX          1 min           ███████████░░░░░░░░░░░░░░   43.41 %
-TypeScript   0 secs          ███████▒░░░░░░░░░░░░░░░░░   29.50 %
-Markdown     0 secs          ██████▓░░░░░░░░░░░░░░░░░░   27.09 %
+MDX          9 mins          █████████████████████▓░░░   87.12 %
+TypeScript   1 min           ███▒░░░░░░░░░░░░░░░░░░░░░   12.88 %
 ```
 
 <!--END_SECTION:waka-->
