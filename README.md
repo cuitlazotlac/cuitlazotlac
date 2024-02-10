@@ -28,11 +28,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 February 2024 - To: 08 February 2024
+From: 02 February 2024 - To: 09 February 2024
 
-MDX          1 hr 53 mins    █████████████████████░░░░   84.47 %
-Other        18 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.99 %
-TypeScript   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 %
+MDX     1 hr 54 mins    ████████████████████▒░░░░   80.81 %
+Other   18 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.25 %
+JSON    7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.06 %
+SQL     1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
 ```
 
 <!--END_SECTION:waka-->
