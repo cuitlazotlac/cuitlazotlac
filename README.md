@@ -28,11 +28,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 February 2024 - To: 15 February 2024
+From: 09 February 2024 - To: 16 February 2024
 
-MDX    12 mins         ███████████████░░░░░░░░░░   59.61 %
-JSON   7 mins          ████████▓░░░░░░░░░░░░░░░░   34.42 %
-SQL    1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.98 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
