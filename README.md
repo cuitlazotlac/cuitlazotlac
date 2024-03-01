@@ -28,11 +28,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 February 2024 - To: 28 February 2024
+From: 22 February 2024 - To: 29 February 2024
 
-MDX        1 hr 31 mins    ███████████████████████▒░   93.21 %
-JSON       6 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.61 %
-Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+MDX        1 hr 36 mins    ███████████████████████▒░   93.08 %
+JSON       6 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.40 %
+Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
+Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
 ```
 
 <!--END_SECTION:waka-->
