@@ -28,10 +28,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 February 2024 - To: 07 March 2024
+From: 01 March 2024 - To: 08 March 2024
 
-MDX          26 mins         ████████████████░░░░░░░░░   63.63 %
-TypeScript   14 mins         █████████░░░░░░░░░░░░░░░░   36.37 %
+MDX          20 mins         █████████████████▒░░░░░░░   69.15 %
+TypeScript   9 mins          ███████▓░░░░░░░░░░░░░░░░░   30.85 %
 ```
 
 <!--END_SECTION:waka-->
