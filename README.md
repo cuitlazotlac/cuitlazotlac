@@ -28,9 +28,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 March 2024 - To: 31 March 2024
+From: 25 March 2024 - To: 01 April 2024
 
-YAML   35 mins         █████████████████████████   100.00 %
+YAML         35 mins         ███████████████████░░░░░░   76.25 %
+JavaScript   9 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.18 %
+JSON         1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.28 %
+TypeScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
 ```
 
 <!--END_SECTION:waka-->
