@@ -28,9 +28,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 April 2024 - To: 15 April 2024
+From: 09 April 2024 - To: 16 April 2024
 
-MDX   20 mins         █████████████████████████   100.00 %
+MDX          39 mins         ████████████████████████░   96.37 %
+TypeScript   1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 %
+YAML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
 ```
 
 <!--END_SECTION:waka-->
