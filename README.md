@@ -28,7 +28,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 May 2024 - To: 02 June 2024
+From: 27 May 2024 - To: 03 June 2024
 
 MDX     55 mins         █████████████████████▓░░░   86.24 %
 Other   6 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.91 %
