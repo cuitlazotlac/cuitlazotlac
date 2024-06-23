@@ -28,10 +28,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 June 2024 - To: 21 June 2024
+From: 15 June 2024 - To: 22 June 2024
 
-MDX    48 mins         ███████████████████████▓░   94.39 %
-JSON   2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.61 %
+JavaScript   1 hr 5 mins     █████████████▒░░░░░░░░░░░   53.96 %
+MDX          31 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.96 %
+TypeScript   17 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.72 %
+JSON         6 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.06 %
+TSConfig     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
 ```
 
 <!--END_SECTION:waka-->
