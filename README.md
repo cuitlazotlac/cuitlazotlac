@@ -28,12 +28,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 August 2024 - To: 08 August 2024
+From: 02 August 2024 - To: 09 August 2024
 
-MDX          1 hr 4 mins     ███████████████████████▒░   93.36 %
-JSON         2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 %
-TypeScript   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.59 %
-Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
