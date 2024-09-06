@@ -28,12 +28,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 August 2024 - To: 04 September 2024
+From: 29 August 2024 - To: 05 September 2024
 
-SQL     22 mins         █████████████▒░░░░░░░░░░░   52.94 %
-MDX     11 mins         ███████░░░░░░░░░░░░░░░░░░   27.40 %
-CSV     5 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.12 %
-Other   2 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.53 %
+MDX   11 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
