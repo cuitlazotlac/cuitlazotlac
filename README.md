@@ -28,10 +28,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 October 2024 - To: 21 October 2024
+From: 15 October 2024 - To: 22 October 2024
 
-MDX    11 mins         ████████████████████████▓   98.96 %
-JSON   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
+MDX          14 mins         █████████████████████▓░░░   86.00 %
+TypeScript   1 min           ███░░░░░░░░░░░░░░░░░░░░░░   11.97 %
+JSON         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.34 %
+TSConfig     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
+JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
 ```
 
 <!--END_SECTION:waka-->
