@@ -28,11 +28,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 October 2024 - To: 31 October 2024
+From: 25 October 2024 - To: 01 November 2024
 
-JSON    1 hr 8 mins     ████████████████████████▒   96.85 %
-SQL     2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.94 %
-Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
+JSON    1 hr 2 mins     ████████████████████████░   96.53 %
+SQL     2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.24 %
+Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
 ```
 
 <!--END_SECTION:waka-->
