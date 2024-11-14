@@ -28,9 +28,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 November 2024 - To: 11 November 2024
+From: 06 November 2024 - To: 13 November 2024
 
-JSON   21 mins         █████████████████████████   100.00 %
+MDX    5 mins          ███████████████▓░░░░░░░░░   62.96 %
+JSON   3 mins          █████████▒░░░░░░░░░░░░░░░   37.04 %
 ```
 
 <!--END_SECTION:waka-->
