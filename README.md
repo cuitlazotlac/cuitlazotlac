@@ -28,10 +28,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 January 2025 - To: 15 January 2025
+From: 09 January 2025 - To: 16 January 2025
 
-Markdown   9 mins          █████████████▓░░░░░░░░░░░   55.14 %
-MDX        7 mins          ███████████▒░░░░░░░░░░░░░   44.86 %
+Other   4 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
