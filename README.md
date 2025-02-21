@@ -28,10 +28,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 February 2025 - To: 19 February 2025
+From: 13 February 2025 - To: 20 February 2025
 
-JSON   2 mins          ████████████████████░░░░░   79.53 %
-MDX    0 secs          █████░░░░░░░░░░░░░░░░░░░░   20.47 %
+JSON   2 mins          ███████████████████████░░   92.02 %
+MDX    0 secs          ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 %
 ```
 
 <!--END_SECTION:waka-->
