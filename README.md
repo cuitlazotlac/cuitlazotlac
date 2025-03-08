@@ -28,13 +28,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 February 2025 - To: 06 March 2025
+From: 28 February 2025 - To: 07 March 2025
 
-MDX          2 hrs 47 mins   ██████████▓░░░░░░░░░░░░░░   42.80 %
-TypeScript   1 hr 7 mins     ████▒░░░░░░░░░░░░░░░░░░░░   17.09 %
-JSON         54 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.00 %
-Git Config   44 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.32 %
-CSS          29 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 %
+MDX          2 hrs 17 mins   ████████████░░░░░░░░░░░░░   48.00 %
+Git Config   44 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.48 %
+JSON         42 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.87 %
+JavaScript   24 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 %
+TypeScript   17 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.28 %
 ```
 
 <!--END_SECTION:waka-->
