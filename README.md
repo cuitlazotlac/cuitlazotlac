@@ -28,10 +28,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 May 2025 - To: 22 May 2025
+From: 16 May 2025 - To: 23 May 2025
 
-MDX   1 hr 3 mins     ███████████████████████▒░   93.00 %
-CSS   4 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.00 %
+MDX          2 hrs 2 mins    █████████████████████▒░░░   85.52 %
+TypeScript   16 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.17 %
+CSS          4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.31 %
 ```
 
 <!--END_SECTION:waka-->
