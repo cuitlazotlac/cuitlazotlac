@@ -28,7 +28,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 July 2025 - To: 12 July 2025
+From: 06 July 2025 - To: 13 July 2025
 
 MDX          1 hr 55 mins    ████████████▓░░░░░░░░░░░░   50.21 %
 JSON         1 hr 21 mins    ████████▓░░░░░░░░░░░░░░░░   35.22 %
