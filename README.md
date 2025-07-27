@@ -28,10 +28,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 July 2025 - To: 25 July 2025
+From: 19 July 2025 - To: 26 July 2025
 
-MDX    10 mins         █████████████▓░░░░░░░░░░░   54.59 %
-JSON   8 mins          ███████████▒░░░░░░░░░░░░░   45.41 %
+MDX          38 mins         ███████████████████▒░░░░░   76.68 %
+JSON         8 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.59 %
+TypeScript   2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.74 %
 ```
 
 <!--END_SECTION:waka-->
