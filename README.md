@@ -28,10 +28,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 August 2025 - To: 15 August 2025
+From: 09 August 2025 - To: 16 August 2025
 
-MDX          28 mins         ████████████████████████░   96.00 %
-TypeScript   1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 %
+MDX          1 hr 12 mins    ██████████████████████░░░   87.66 %
+TypeScript   10 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.34 %
 ```
 
 <!--END_SECTION:waka-->
