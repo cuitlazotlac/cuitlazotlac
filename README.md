@@ -28,11 +28,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 September 2025 - To: 09 September 2025
+From: 03 September 2025 - To: 10 September 2025
 
-MDX    41 mins         ██████████████████▓░░░░░░   74.60 %
-YAML   12 mins         █████▓░░░░░░░░░░░░░░░░░░░   23.14 %
-Nix    1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.26 %
+YAML     47 mins         ███████████████████▓░░░░░   78.33 %
+Bash     12 mins         █████░░░░░░░░░░░░░░░░░░░░   20.51 %
+MDX      0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 %
+Python   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:waka-->
