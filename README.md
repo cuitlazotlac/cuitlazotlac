@@ -28,12 +28,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 September 2025 - To: 19 September 2025
+From: 13 September 2025 - To: 20 September 2025
 
-MDX        33 mins         ███████████▒░░░░░░░░░░░░░   45.20 %
-Markdown   19 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.35 %
-YAML       12 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.78 %
-JSON       8 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.66 %
+MDX        35 mins         ███████████▓░░░░░░░░░░░░░   46.35 %
+Markdown   19 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.80 %
+YAML       12 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.43 %
+JSON       8 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.42 %
 ```
 
 <!--END_SECTION:waka-->
