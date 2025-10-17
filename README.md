@@ -28,10 +28,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 October 2025 - To: 15 October 2025
+From: 09 October 2025 - To: 16 October 2025
 
-MDX          32 mins         █████████████████████████   99.85 %
-TypeScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
+MDX   18 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
