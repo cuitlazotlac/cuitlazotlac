@@ -28,10 +28,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 October 2025 - To: 24 October 2025
+From: 18 October 2025 - To: 25 October 2025
 
-Markdown   23 mins         ██████████████████▒░░░░░░   73.82 %
-MDX        8 mins          ██████▓░░░░░░░░░░░░░░░░░░   26.18 %
+MDX        1 hr 28 mins    ███████████████████░░░░░░   75.81 %
+Markdown   28 mins         ██████░░░░░░░░░░░░░░░░░░░   24.19 %
 ```
 
 <!--END_SECTION:waka-->
