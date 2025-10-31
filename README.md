@@ -28,12 +28,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 October 2025 - To: 29 October 2025
+From: 23 October 2025 - To: 30 October 2025
 
-MDX        1 hr 24 mins    ████████████░░░░░░░░░░░░░   48.51 %
-JSON       44 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.86 %
-Markdown   44 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.43 %
-Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
+MDX        1 hr 24 mins    ██████████▓░░░░░░░░░░░░░░   42.11 %
+JSON       1 hr 10 mins    ████████▓░░░░░░░░░░░░░░░░   34.94 %
+Markdown   44 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.08 %
+Other      1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
 ```
 
 <!--END_SECTION:waka-->
