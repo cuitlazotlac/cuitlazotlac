@@ -9,7 +9,7 @@ on:
 jobs:
   update-readme:
     name: Update this repo's README
-    runs-on: tenki-standard-autoscalEEEE
+    runs-on: tenki-standard-autoscale
     steps:
       - uses: athul/waka-readme@master
         with:
