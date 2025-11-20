@@ -28,10 +28,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 November 2025 - To: 18 November 2025
+From: 12 November 2025 - To: 19 November 2025
 
-YAML   12 mins         ███████████████████▒░░░░░   77.33 %
-MDX    3 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.67 %
+YAML         25 mins         ██████████████▓░░░░░░░░░░   58.91 %
+Markdown     14 mins         ████████░░░░░░░░░░░░░░░░░   32.37 %
+MDX          3 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.67 %
+Docker       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
