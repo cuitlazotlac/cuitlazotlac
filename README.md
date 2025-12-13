@@ -28,9 +28,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 December 2025 - To: 10 December 2025
+From: 05 December 2025 - To: 12 December 2025
 
-No activity tracked
+TypeScript   7 mins          ███████████████▓░░░░░░░░░   62.52 %
+MDX          4 mins          █████████▒░░░░░░░░░░░░░░░   37.48 %
 ```
 
 <!--END_SECTION:waka-->
