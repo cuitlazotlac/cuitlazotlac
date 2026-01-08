@@ -28,11 +28,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 December 2025 - To: 06 January 2026
+From: 31 December 2025 - To: 07 January 2026
 
-MDX          4 hrs 18 mins   ████████████████▓░░░░░░░░   67.23 %
-TypeScript   1 hr 15 mins    █████░░░░░░░░░░░░░░░░░░░░   19.70 %
-Markdown     50 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.07 %
+MDX          4 hrs 18 mins   ████████████████▓░░░░░░░░   66.65 %
+TypeScript   1 hr 15 mins    █████░░░░░░░░░░░░░░░░░░░░   19.53 %
+Markdown     53 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.82 %
 CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
