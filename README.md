@@ -28,7 +28,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 December 2025 - To: 07 January 2026
+From: 01 January 2026 - To: 08 January 2026
 
 MDX          4 hrs 18 mins   ████████████████▓░░░░░░░░   66.65 %
 TypeScript   1 hr 15 mins    █████░░░░░░░░░░░░░░░░░░░░   19.53 %
