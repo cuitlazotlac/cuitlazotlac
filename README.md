@@ -28,11 +28,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 January 2026 - To: 12 January 2026
+From: 06 January 2026 - To: 13 January 2026
 
-Markdown     55 mins         ██████████▓░░░░░░░░░░░░░░   42.98 %
-MDX          39 mins         ███████▓░░░░░░░░░░░░░░░░░   30.62 %
-TypeScript   33 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.40 %
+MDX          32 mins         ████████████████████▓░░░░   82.01 %
+TypeScript   3 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.60 %
+Markdown     3 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.39 %
 ```
 
 <!--END_SECTION:waka-->
