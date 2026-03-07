@@ -28,10 +28,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 February 2026 - To: 05 March 2026
+From: 27 February 2026 - To: 06 March 2026
 
-MDX          1 hr 4 mins           ████████████████░░░░░░░░░   63.34 %
-TypeScript   37 mins               █████████░░░░░░░░░░░░░░░░   36.66 %
+MDX          1 hr 44 mins          ███████████████▒░░░░░░░░░   60.94 %
+TypeScript   54 mins               ████████░░░░░░░░░░░░░░░░░   32.13 %
+Markdown     6 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 %
+Other        3 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.87 %
+TSConfig     1 min                 ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
 ```
 
 <!--END_SECTION:waka-->
