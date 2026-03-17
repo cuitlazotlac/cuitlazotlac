@@ -28,11 +28,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 March 2026 - To: 15 March 2026
+From: 09 March 2026 - To: 16 March 2026
 
-MDX          1 hr 43 mins          ██████████████████████░░░   87.99 %
-Other        13 mins               ███░░░░░░░░░░░░░░░░░░░░░░   11.86 %
-TypeScript   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
+MDX          1 hr 29 mins          █████████████████████████   99.80 %
+TypeScript   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
 ```
 
 <!--END_SECTION:waka-->
