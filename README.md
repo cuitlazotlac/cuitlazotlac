@@ -28,9 +28,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 April 2026 - To: 24 April 2026
+From: 18 April 2026 - To: 25 April 2026
 
-MDX   14 mins               █████████████████████████   100.00 %
+MDX          14 mins               ██████████████████▓░░░░░░   74.69 %
+TypeScript   3 mins                █████▒░░░░░░░░░░░░░░░░░░░   20.72 %
+Markdown     0 secs                █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 %
+Text         0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 %
 ```
 
 <!--END_SECTION:waka-->
